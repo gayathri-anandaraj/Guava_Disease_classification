@@ -7,3 +7,5 @@ This project demonstrates a scalable method to detect plant diseases using AI, w
 Mobile Applications: For farmers to scan leaves in real time.
 Smart Farming Systems: To automate disease detection and optimize crop yield.
 Research Tools: For identifying and studying plant diseases.
+
+Dataset link: https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset
